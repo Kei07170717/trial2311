@@ -1,6 +1,6 @@
 def greetings():
     print("Hello")
     print("Bonjour")
-    print("ciao")
-
+    print("Ciao")
+    
 print(greetings())
